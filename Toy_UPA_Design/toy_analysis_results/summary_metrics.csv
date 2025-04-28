@@ -1,0 +1,6 @@
+"Case","Jaccard","Louvain_Clusters","Modularity"
+"collaborative",1,1,0
+"isolated",0,10,NA
+"2_clusters",0.4444,2,0.5
+"3_clusters",0.2667,3,0.625
+"3_clusters_overlap",0.3829,3,0.3435
